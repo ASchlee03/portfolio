@@ -1,0 +1,1 @@
+# This portfolio website was created with the help of CodePen, as i used it to consistently test the output of the website (hence the low number of repositories). I have added a description for each code block and organized it in a readable way, so that if anyone wants to use this code as a reference for your own work you can do so.
